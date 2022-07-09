@@ -1,8 +1,10 @@
-# FoodDeserts
-Data Analysis of Food Deserts in the United States in Association with Socioeconomic Factors and Related Health Conditions
+# Data Analysis of Food Deserts in the United States in Association with Socioeconomic Factors and Related Health Conditions
+==============================================================================================================================
 
+## Credits
+----------
+Coding Done by:  
 
-Coding:  
+-Rathnapriya Gopalakrishnan  
+-Patrick Page
 
-Rathnapriya Gopalakrishnan  
-Patrick Page
