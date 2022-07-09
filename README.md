@@ -3,6 +3,6 @@
 ## Credits
 **Coding Done by:**  
 
--Rathnapriya Gopalakrishnan  
--Patrick Page
+- Rathnapriya Gopalakrishnan  
+- Patrick Page
 
